@@ -24,6 +24,9 @@ Small web server with "home" and "admin" pages.
   $ curl http://localhost:8080/home
   Server is closed for maintenance!
   ```
+## Run Junit test
+* ensure that folder "src/main/test" marked as test root.
+* run test from file "src/main/test/servlets/HomePageServletTest.java"
 
 ## Run test tool
 `./start.bat` or `java -jar tester.jar`
